@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#FBFBFD</headerColor>
+        <logo>ChatGPT_Image_Jun_7_2025_01_30_59_P</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>This app will be used to manage all the behind the scene data related tasks by Admin for hiring candidates</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>✅Smart Hire 360</label>
+    <navType>Standard</navType>
+    <tabs>Position__c</tabs>
+    <tabs>Candidate__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Smart_Hire_360_UtilityBar</utilityBar>
+</CustomApplication>
