@@ -1,5 +1,17 @@
 {
-  "orgName": "Demo company",
+  "orgName": "SmartHire360-scratch-org",
   "edition": "Developer",
-  "features": []
+  "features": [
+    "Communities",
+    "ContactsToMultipleAccounts",
+    "PersonAccounts",
+    "ServiceCloud",
+    "LiveAgent",
+    "LiveAgentUser",
+    "Knowledge",
+    "CommunitiesTemplates",
+    "CommunitiesMobileLayouts",
+    "ChatterAnswers",
+    "ChatterGroups"
+  ]
 }

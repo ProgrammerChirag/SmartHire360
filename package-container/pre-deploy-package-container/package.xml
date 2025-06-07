@@ -7,11 +7,13 @@
 	<types>
 		<members>Candidate__c</members>
 		<members>Position__c</members>
+		<members>Job_Application__c</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
 		<members>Candidate__c</members>
 		<members>Position__c</members>
+		<members>Job_Application__c</members>
 		<name>CustomTab</name>
 	</types>
 	<version>63.0</version>

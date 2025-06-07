@@ -17,6 +17,7 @@
     <navType>Standard</navType>
     <tabs>Position__c</tabs>
     <tabs>Candidate__c</tabs>
+    <tabs>Job_Application__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Smart_Hire_360_UtilityBar</utilityBar>
 </CustomApplication>
